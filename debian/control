@@ -1,0 +1,10 @@
+Source: python-pyvmomi
+Maintainer: Sebastien CAPS <sebastien.caps@guardis.com>
+Section: misc
+Priority: optional
+Standards-Version: 5.5.0
+Build-Depends: debhelper (>= 9)
+
+Package: python-pyvmomi
+Architecture: all
+Description: VMware vSphere Python SDK
