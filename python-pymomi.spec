@@ -2,7 +2,7 @@
 
 
 Name:           python-pyvmomi
-Version:        5.5.0
+Version:        999-comodit-5.5.0
 Release:        1%{dist}
 Url:            https://github.com/vmware/pyvmomi
 Summary:        VMware vSphere Python SDK
